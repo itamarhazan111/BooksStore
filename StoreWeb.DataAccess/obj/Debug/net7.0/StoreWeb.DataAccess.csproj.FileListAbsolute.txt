@@ -74,3 +74,4 @@ C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.DataAccess
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.DataAccess\obj\Debug\net7.0\StoreWeb.DataAccess.genruntimeconfig.cache
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.DataAccess\obj\Debug\net7.0\ref\StoreWeb.DataAccess.dll
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.DataAccess\obj\Debug\net7.0\StoreWeb.DCA600FE.Up2Date
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.DataAccess\obj\Debug\net7.0\StoreWeb.DataAccess.sourcelink.json

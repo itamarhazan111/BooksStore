@@ -45,3 +45,4 @@ C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\ob
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Debug\net7.0\refint\StoreWeb.Utility.dll
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Debug\net7.0\StoreWeb.Utility.pdb
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Debug\net7.0\ref\StoreWeb.Utility.dll
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Debug\net7.0\StoreWeb.Utility.sourcelink.json

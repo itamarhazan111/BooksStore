@@ -45,3 +45,4 @@ C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Models\obj
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Models\obj\Debug\net7.0\refint\StoreWeb.Models.dll
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Models\obj\Debug\net7.0\StoreWeb.Models.pdb
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Models\obj\Debug\net7.0\ref\StoreWeb.Models.dll
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Models\obj\Debug\net7.0\StoreWeb.Models.sourcelink.json

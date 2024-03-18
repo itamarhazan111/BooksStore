@@ -298,3 +298,4 @@ C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\BooksStoreWeb\bin\D
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\BooksStoreWeb\bin\Debug\net8.0\MailKit.dll
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\BooksStoreWeb\bin\Debug\net8.0\MimeKit.dll
 C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\BooksStoreWeb\obj\Debug\net8.0\BooksStoreWeb.sourcelink.json
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\BooksStoreWeb\bin\Debug\net8.0\appsettings.Production.json
