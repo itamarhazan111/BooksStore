@@ -125,7 +125,7 @@ namespace BooksStoreWeb.Areas.Custumer.Controllers
                         {
                             if (storeUser.CompanyId.GetValueOrDefault() == 0)
                             {
-                                var DOMAIN = "https://localhost:5062/";
+                                var DOMAIN =Request.Scheme+"://"+Request.Host.Value+"/";
                                 var options = new SessionCreateOptions
                                 {
                                     SuccessUrl = DOMAIN + $"custumer/cart/OrderConfirmation?id={ShoppingCartVM.OrderHeader.Id}",

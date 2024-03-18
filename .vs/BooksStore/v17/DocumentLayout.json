@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\areas\\custumer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\areas\\custumer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAcwH8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:12:02.411Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
