@@ -1,0 +1,13 @@
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\bin\Release\net7.0\StoreWeb.Utility.deps.json
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\bin\Release\net7.0\StoreWeb.Utility.dll
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\bin\Release\net7.0\StoreWeb.Utility.pdb
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\StoreWeb.Utility.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\StoreWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\StoreWeb.Utility.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\StoreWeb.Utility.AssemblyInfo.cs
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\StoreWeb.Utility.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\StoreWeb.Utility.dll
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\refint\StoreWeb.Utility.dll
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\StoreWeb.Utility.pdb
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\ref\StoreWeb.Utility.dll
+C:\Users\user\OneDrive\שולחן העבודה\BS\BooksStore\StoreWeb.Utility\obj\Release\net7.0\StoreWeb.Utility.sourcelink.json
