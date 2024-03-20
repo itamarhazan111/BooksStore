@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\user\\OneDrive\\שולחן העבודה\\BS\\BooksStore\\BooksStoreWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
       "Id": "C:\\Users\\user\\OneDrive\\שולחן העבודה\\BS\\BooksStore\\BooksStoreWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

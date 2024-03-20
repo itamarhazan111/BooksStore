@@ -18,6 +18,10 @@ namespace StoreWeb.DataAccess.Repository
         {
             _db = db;
         }
-
+        public async Task<bool> UpdateAsync(StoreUser storeUser)
+        {
+            _db.StoreUsers.Update(storeUser);
+            return await SaveAsync();
+        }
     }
 }

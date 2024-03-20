@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J2CbEM2B9idQ841QbSbzYF1V9QT/cz2VVHEQLl3rOh0=",
+  "Hash": "QQ5FqNWdNCVluIy+2t80eALTC0ZYj0fChL/8Ggflh4E=",
   "Source": "BooksStoreWeb",
   "BasePath": "_content/BooksStoreWeb",
   "Mode": "Default",
@@ -1478,6 +1478,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\OneDrive\\שולחן העבודה\\BS\\BooksStore\\BooksStoreWeb\\wwwroot\\js\\user.js",
+      "SourceId": "BooksStoreWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\OneDrive\\שולחן העבודה\\BS\\BooksStore\\BooksStoreWeb\\wwwroot\\",
+      "BasePath": "_content/BooksStoreWeb",
+      "RelativePath": "js/user.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\user.js"
     },
     {
       "Identity": "C:\\Users\\user\\OneDrive\\שולחן העבודה\\BS\\BooksStore\\BooksStoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

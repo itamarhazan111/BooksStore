@@ -3,8 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\areas\\custumer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\areas\\custumer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.dataaccess\\repository\\storeuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|solutionrelative:storeweb.dataaccess\\repository\\storeuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.models\\storeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|solutionrelative:storeweb.models\\storeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|solutionrelative:storeweb.models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|solutionrelative:storeweb.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|solutionrelative:storeweb.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\areas\\admin\\views\\user\\rolemanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\areas\\admin\\views\\user\\rolemanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.models\\viewmodels\\rolemanagmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|solutionrelative:storeweb.models\\viewmodels\\rolemanagmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\views\\shared\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\views\\shared\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.dataaccess\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|solutionrelative:storeweb.dataaccess\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.dataaccess\\repository\\irepository\\istoreuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|solutionrelative:storeweb.dataaccess\\repository\\irepository\\istoreuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.dataaccess\\repository\\irepository\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|solutionrelative:storeweb.dataaccess\\repository\\irepository\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|solutionrelative:storeweb.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\areas\\custumer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\areas\\custumer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|solutionrelative:storeweb.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +90,254 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Notifications.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Views\\Shared\\_Notifications.cshtml",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\Views\\Shared\\_Notifications.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Views\\Shared\\_Notifications.cshtml",
+              "RelativeToolTip": "BooksStoreWeb\\Views\\Shared\\_Notifications.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T15:19:41.025Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Custumer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Custumer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Custumer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BooksStoreWeb\\Areas\\Custumer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T11:40:22.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\StoreUserRepository.cs",
+              "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\StoreUserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\StoreUserRepository.cs",
+              "RelativeToolTip": "StoreWeb.DataAccess\\Repository\\StoreUserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:45:53.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "BooksStoreWeb\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T14:12:40.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\StoreUser.cs",
+              "RelativeDocumentMoniker": "StoreWeb.Models\\StoreUser.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\StoreUser.cs",
+              "RelativeToolTip": "StoreWeb.Models\\StoreUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:32:46.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BooksStoreWeb\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswGIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:58:32.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\Company.cs",
+              "RelativeDocumentMoniker": "StoreWeb.Models\\Company.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\Company.cs",
+              "RelativeToolTip": "StoreWeb.Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:29:17.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleManagmentVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\ViewModels\\RoleManagmentVM.cs",
+              "RelativeDocumentMoniker": "StoreWeb.Models\\ViewModels\\RoleManagmentVM.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\ViewModels\\RoleManagmentVM.cs",
+              "RelativeToolTip": "StoreWeb.Models\\ViewModels\\RoleManagmentVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:45:44.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\Product.cs",
+              "RelativeDocumentMoniker": "StoreWeb.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\Product.cs",
+              "RelativeToolTip": "StoreWeb.Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:29:02.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "StoreWeb.Models\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\OrderHeader.cs",
+              "RelativeToolTip": "StoreWeb.Models\\OrderHeader.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:29:04.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleManagment.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
+              "RelativeToolTip": "BooksStoreWeb\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T16:10:48.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BooksStoreWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:04:56.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "user.js",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\wwwroot\\js\\user.js",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\wwwroot\\js\\user.js",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\wwwroot\\js\\user.js",
+              "RelativeToolTip": "BooksStoreWeb\\wwwroot\\js\\user.js",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-18T14:13:39.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BooksStoreWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAF0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T14:16:45.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\CompanyRepository.cs",
+              "RelativeToolTip": "StoreWeb.DataAccess\\Repository\\CompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:46:01.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStoreUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\IStoreUserRepository.cs",
+              "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\IRepository\\IStoreUserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\IStoreUserRepository.cs",
+              "RelativeToolTip": "StoreWeb.DataAccess\\Repository\\IRepository\\IStoreUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:46:28.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
+              "RelativeToolTip": "StoreWeb.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:46:13.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "StoreWeb.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:46:23.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "StoreWeb.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:07:50.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",
               "RelativeToolTip": "BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAcwH8AAAAsAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwH8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T11:12:02.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+              "WhenOpened": "2024-03-18T11:12:02.411Z"
             }
           ]
         }

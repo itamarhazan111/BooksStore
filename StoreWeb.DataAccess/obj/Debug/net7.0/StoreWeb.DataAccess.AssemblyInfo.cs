@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoreWeb.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e7e1007479efb20e3b298792fe279d15d632760")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f5621478040194658b98cca23b7da89a97c2848")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoreWeb.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoreWeb.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,5 +10,6 @@ namespace StoreWeb.DataAccess.Repository.IRepository
 {
     public interface IStoreUserRepository : IRepository<StoreUser>
     {
+        Task<bool> UpdateAsync(StoreUser storeUser);
     }
 }
