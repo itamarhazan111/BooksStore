@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|solutionrelative:booksstoreweb\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.dataaccess\\repository\\storeuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|solutionrelative:storeweb.dataaccess\\repository\\storeuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.models\\viewmodels\\rolemanagmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F47E5D9-5222-43A5-970F-3A0A9CB7E011}|StoreWeb.Models\\StoreWeb.Models.csproj|solutionrelative:storeweb.models\\viewmodels\\rolemanagmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\storeweb.dataaccess\\repository\\storeuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F8055AD-599E-4E8E-9F29-C15FACD6A1B5}|StoreWeb.DataAccess\\StoreWeb.DataAccess.csproj|solutionrelative:storeweb.dataaccess\\repository\\storeuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4D51B7A-BF4B-4899-8968-209CCAE5BF53}|BooksStoreWeb\\BooksStoreWeb.csproj|c:\\users\\user\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\bs\\booksstore\\booksstoreweb\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Notifications.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Views\\Shared\\_Notifications.cshtml",
               "RelativeDocumentMoniker": "BooksStoreWeb\\Views\\Shared\\_Notifications.cshtml",
@@ -107,7 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BooksStoreWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BooksStoreWeb\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T13:10:57.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StoreUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\StoreUserRepository.cs",
               "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\StoreUserRepository.cs",
@@ -115,11 +132,12 @@
               "RelativeToolTip": "StoreWeb.DataAccess\\Repository\\StoreUserRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T14:45:53.264Z"
+              "WhenOpened": "2024-03-18T14:45:53.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Admin\\Views\\User\\Index.cshtml",
@@ -131,32 +149,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Admin\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Controllers\\UserController.cs",
               "RelativeToolTip": "BooksStoreWeb\\Areas\\Admin\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAkwIkAAAASAAAA",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAkwJwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T13:58:32.489Z"
+              "WhenOpened": "2024-03-18T13:58:32.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "user.js",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\wwwroot\\js\\user.js",
               "RelativeDocumentMoniker": "BooksStoreWeb\\wwwroot\\js\\user.js",
               "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\wwwroot\\js\\user.js",
               "RelativeToolTip": "BooksStoreWeb\\wwwroot\\js\\user.js",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowD4AAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-03-18T14:13:39.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "StoreUser.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\StoreUser.cs",
               "RelativeDocumentMoniker": "StoreWeb.Models\\StoreUser.cs",
@@ -168,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Company.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\Company.cs",
               "RelativeDocumentMoniker": "StoreWeb.Models\\Company.cs",
@@ -180,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RoleManagmentVM.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\ViewModels\\RoleManagmentVM.cs",
               "RelativeDocumentMoniker": "StoreWeb.Models\\ViewModels\\RoleManagmentVM.cs",
@@ -192,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\Product.cs",
               "RelativeDocumentMoniker": "StoreWeb.Models\\Product.cs",
@@ -204,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "OrderHeader.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.Models\\OrderHeader.cs",
               "RelativeDocumentMoniker": "StoreWeb.Models\\OrderHeader.cs",
@@ -216,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "RoleManagment.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
               "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
@@ -228,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -240,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BooksStoreWeb\\Views\\Shared\\_Layout.cshtml",
@@ -252,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CompanyRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\CompanyRepository.cs",
               "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\CompanyRepository.cs",
@@ -264,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IStoreUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\IStoreUserRepository.cs",
               "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\IRepository\\IStoreUserRepository.cs",
@@ -276,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ICompanyRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
               "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
@@ -288,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
@@ -300,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IShoppingCartRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\StoreWeb.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
               "RelativeDocumentMoniker": "StoreWeb.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
@@ -312,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\BS\\BooksStore\\BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "BooksStoreWeb\\Areas\\Custumer\\Controllers\\CartController.cs",

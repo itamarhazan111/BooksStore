@@ -20,7 +20,8 @@ function loadDataTable() {
                 "render": function (data) {
                     var today = new Date().getTime();
                     var lockout = new Date(data.lockoutEnd).getTime();
-
+                    console.log(today)
+                    console.log(lockout)
                     if (lockout >=today) {
                         return `
                         <div class="text-center">
