@@ -21,7 +21,7 @@ function loadDataTable() {
                     var today = new Date().getTime();
                     var lockout = new Date(data.lockoutEnd).getTime();
 
-                    if (lockout > today) {
+                    if (lockout >=today) {
                         return `
                         <div class="text-center">
                              <a onclick=LockUnlock('${data.id}') class="btn btn-danger text-white" style="cursor:pointer; width:100px;">
@@ -61,10 +61,6 @@ function LockUnlock(id) {
         url: '/Admin/User/LockUnlock',
         data: JSON.stringify(id),
         contentType: "application/json",
-        beforeSend: function (xhr) {
-            xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');   // עבור בקשות AJAX
-            xhr.setRequestHeader('RequestVerificationToken', $('input[name="__RequestVerificationToken"]').val());
-        },
         success: function (data) {
             if (data.success) {
                 toastr.success(data.message);
