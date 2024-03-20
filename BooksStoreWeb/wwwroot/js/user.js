@@ -1,4 +1,6 @@
+
 var dataTable;
+
 
 $(document).ready(function () {
     loadDataTable();
@@ -59,6 +61,10 @@ function LockUnlock(id) {
         url: '/Admin/User/LockUnlock',
         data: JSON.stringify(id),
         contentType: "application/json",
+        beforeSend: function (xhr) {
+            xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');   // עבור בקשות AJAX
+            xhr.setRequestHeader('RequestVerificationToken', $('input[name="__RequestVerificationToken"]').val());
+        },
         success: function (data) {
             if (data.success) {
                 toastr.success(data.message);
