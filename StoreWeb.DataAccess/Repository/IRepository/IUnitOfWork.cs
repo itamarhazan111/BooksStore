@@ -15,6 +15,7 @@ namespace StoreWeb.DataAccess.Repository.IRepository
         IStoreUserRepository StoreUser { get; }
         IOrderDetailRepository OrderDetail { get; }
         IOrderHeaderRepository OrderHeader { get; }
+        IProductImageRepository ProductImage { get; }
         //Task<bool> SaveAsync();
     }
 }

@@ -35,8 +35,10 @@ namespace BooksStoreWeb.Areas.Custumer.Controllers
                     ShoppingCartList = await _unitOfWork.ShoppingCart.GetAllAsync(x => x.StoreUserId == userId, includeProperties: "Product"),
                     OrderHeader = new()
                 };
+                IEnumerable<ProductImage> productImages = await _unitOfWork.ProductImage.GetAllAsync();
                 foreach (ShoppingCart cart in ShoppingCartVM.ShoppingCartList)
                 {
+                    cart.Product.ProductImages=productImages.Where(u=>u.ProductId==cart.ProductId).ToList();
                     cart.Price = GetPriceBasedOnQuantity(cart);
                     ShoppingCartVM.OrderHeader.OrderTotal += cart.Price * cart.Count;
                 }

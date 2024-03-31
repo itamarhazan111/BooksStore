@@ -33,10 +33,11 @@ namespace StoreWeb.DataAccess.Repository
                 objFromDb.Price100= product.Price100;
                 objFromDb.CategoryId = product.CategoryId;
                 objFromDb.Author = product.Author;
-                if(product.ImageUrl != null)
-                {
-                    objFromDb.ImageUrl = product.ImageUrl;
-                }
+                objFromDb.ProductImages = product.ProductImages;
+                //if(product.ImageUrl != null)
+                //{
+                //    objFromDb.ImageUrl = product.ImageUrl;
+                //}
 
 
             }

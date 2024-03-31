@@ -33,7 +33,7 @@ namespace BooksStoreWeb.Areas.Custumer.Controllers
                         HttpContext.Session.SetInt32(SD.SessionCart, SC.Count());
                 }
             }
-            IEnumerable<Product> products =await _unitOfWork.Product.GetAllAsync(includeProperties: "Category");
+            IEnumerable<Product> products =await _unitOfWork.Product.GetAllAsync(includeProperties: "Category,ProductImages");
             return View(products);
         }
         public async Task<IActionResult> Details(int?id)
@@ -44,7 +44,7 @@ namespace BooksStoreWeb.Areas.Custumer.Controllers
             }
             ShoppingCart shoppingCart = new()
             {
-                Product = await _unitOfWork.Product.GetByIdAsync((int)id),
+                Product = await _unitOfWork.Product.GetAsync(u => u.Id == id, includeProperties: "Category,ProductImages"),
                 Count=1,
                 ProductId=(int)id
 
